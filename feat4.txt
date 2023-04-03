@@ -1,2 +1,3 @@
 new feat 4
 new login page added
+new logout page added
